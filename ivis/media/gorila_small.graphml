@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph id="G" edgedefault="directed">
+    <node id="Doc=>gorila_001.txt"/>
+	<node id="Sentence=>13273262956750:1:0"/>
+	<edge source="Doc=>gorila_001.txt" target="Sentence=>13273262956750:1:0"/>
+	<node id="DOCID=>001"/>
+	<edge source="Sentence=>13273262956750:1:0" target="DOCID=>001"/>
+	<node id="Sentence=>13273262956754:2:0"/>
+	<edge source="Doc=>gorila_001.txt" target="Sentence=>13273262956754:2:0"/>
+	<node id="Person=>Jozefa Magalu"/>
+	<edge source="Sentence=>13273262956754:2:0" target="Person=>Jozefa Magalu"/>
+	<node id="NE=>Jozefa Magalu"/>
+  </graph>
+</graphml>

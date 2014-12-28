@@ -1,0 +1,27 @@
+1 Vertex: Address=>100 Congress Avenue, Suite 800, Austin, Texas 78701	2
+1 Vertex: Address=>10545 Gawain, Houston, TX 77024	1
+1 Vertex: Address=>1400 Smith Street EB 3817, Houston Texas 77002	2
+1 Vertex: Address=>1400 Smith Street, , Houston, TX? 77002-7361	2
+1 Vertex: Address=>1400 Smith, EB3210B, Houston, TX 77002	1
+1 Vertex: Address=>205 South Commons Ford Road, No.1, Austin, Tx 78733-4004	1
+1 Vertex: Address=>22648 Glenn Drive Suite 305, Sterling, VA 20164	1
+1 Vertex: Address=>2714 Bee Cave Road, Suite 100-D, Austin, Texas? 78746	2
+1 Vertex: Address=>401 Carlson Circle, San Marcos Texas, 78666	1
+1 Vertex: Address=>4303 Pate Rd. #29, College Station, TX 77845	1
+1 Vertex: Address=>6201 Meadow Lake, Houston, TX 77057	1
+1 Vertex: Address=>721 Barton Springs Rd., Austin, TX 78704-1194	1
+1 Vertex: Address=>7926 Jones Branch Drive, Suite 630, McLean, VA 22102-3303	2
+1 Vertex: Address=>8855 , Merlin Ct, Houston, TX 77055	1
+1 Vertex: Address=>8855 Merlin Ct, Houston, TX 77055	2
+1 Vertex: Address=>9400 Circle Drive, Austin, Texas 78736	1
+1 Vertex: Address=>Communications, 401 Carlson Circle	1
+1 Vertex: Address=>Houston - 2929 Allen Parkway	2
+1 Vertex: Address=>P.O. Box 15427, Austin, TX 78761-5427	1
+1 Vertex: CityName=>Austin	8
+1 Vertex: CityName=>College Station	1
+1 Vertex: CityName=>Communications	1
+1 Vertex: CityName=>Houston	12
+1 Vertex: CityName=>McLean	2
+1 Vertex: CityName=>San Marcos	1
+1 Vertex: CityName=>Sterling	1
+2 Edge: (Address=>100 Congress Avenue, Suite 800, Austin, Texas 78701)=>(CityName=>Austin)	2
